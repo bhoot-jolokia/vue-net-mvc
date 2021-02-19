@@ -1,6 +1,11 @@
 <template>
-  <div>
-    {{firstValue}} + {{secondValue}} = {{sum}}
+  <div class="vue-rendered">
+    <div>
+      Rendered by Vue
+    </div>
+    <div>
+      {{firstValue}} + {{secondValue}} = {{sum}}
+    </div>  
   </div>
 </template>
 
