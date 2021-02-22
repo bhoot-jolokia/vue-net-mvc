@@ -7,6 +7,6 @@ Please ensure the following dependencies are installed.
 - [.net core 5](https://dotnet.microsoft.com/download/dotnet/5.0)
 - [Nodejs](https://nodejs.org/en/download/)
 ## Tasks
-- `run.sh` use this is build and start the server.
+- `run.sh` use this to build and start the server.
 ## Routes 
 - `http://localhost:5000/` Use this to access the sample page.
